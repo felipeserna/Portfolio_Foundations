@@ -1,5 +1,5 @@
 <!-- Portada -->
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/cover_page_sk.png" /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/cover_page_sk.png" /></p>
 <br>
 
 <!-- Presentación -->
@@ -41,7 +41,7 @@ It is a React component library based that allows faster and easier stylized web
 All these services are going to be used because AWS is the state of the art for web development and deployment, and the company Skillshare has a budget already destined for them.
 </p>
 <br>
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/architecture_sk.png" /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/architecture_sk.png" /></p>
 <br>
 
 <!-- Features -->
@@ -49,7 +49,7 @@ All these services are going to be used because AWS is the state of the art for 
 <br>
 <p>The main objective of these features is to improve the engagement of the Skillshare community and to generate a greater participation and connection with the classes.</p>
 <br>
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/capture_experience.png" /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/Capture_experience.png" /></p>
 <br>
 <br>
 <p> 
@@ -57,7 +57,7 @@ All these services are going to be used because AWS is the state of the art for 
 
 Track the students understanding of the class without interruptions and anonymously.
 <br>
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/real_time.png" /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/real_time.png" /></p>
 <br>
 <br>
 <b>Timeline</b>
@@ -65,14 +65,14 @@ Track the students understanding of the class without interruptions and anonymou
 
 Allow students to know the schedule of the class so they can organize their time and have access to resources.
 <br>
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/timeline.png" /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/timeline.png" /></p>
 <br>
 <br>
 <b>Metrics</b>
 
 Allow teachers to track students progress in order to improve their classes.
 </p>
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/metrics.png" /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/metrics.png" /></p>
 <br>
 <br>
 <!-- Installation -->
@@ -82,6 +82,7 @@ Allow teachers to track students progress in order to improve their classes.
 
 
 In the project directory, you can run:
+WARNING: THIS PROJECT IS PRIVATE
 
 ### `git clone https://github.com/skillshare-mentorship/holberton-live-experience.git`
 ### `cd holberton-live-experience/react-chat-app-aws`
@@ -103,24 +104,24 @@ Runs the app in the development mode.<br />
 <!-- Social Media -->
 <h4><em><br>Follow us: </em></h4>
 <!-- Mafe -->
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/mafe.jpg" width=100 height=100 /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/mafe.jpg" width=100 height=100 /></p>
 <p align="right"><a href="https://twitter.com/mafe_crespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_twitter.png" alt="mafe_crespo" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/mariafernandacrespo/" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_linkedin.png" alt="MariaFernandaCrespo" height="40" width="40" /></a>
 </p>
 
 <!-- Santi -->
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/santi.jpg" width=100 height=100 /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/santi.jpg" width=100 height=100 /></p>
 <p align="right"><a href="https://twitter.com/choladito" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_twitter.png" alt="choladito" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/choladito/" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_linkedin.png" alt="choladito" height="40" width="40" /></a>
 </p>
 
 <!-- Luis -->
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/luis.jpg" width=100 height=100 /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/luis.jpg" width=100 height=100 /></p>
 <p align="right"><a href="https://twitter.com/lsanjuan92" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_twitter.png" alt="lsanjuan92" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/luiscode92/" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_linkedin.png" alt="luiscode92" height="40" width="40" /></a>
 </p>
 <!-- Pipe -->
-<p align="center"><img src="https://github.com/skillshare-mentorship/holberton-live-experience/blob/master/react-chat-app-aws/src/img/pipe.jpg" width=100 height=100 /></p>
+<p align="center"><img src="https://github.com/felipeserna/Portfolio_Foundations/blob/main/react-chat-app-aws/src/img/pipe.jpg" width=100 height=100 /></p>
 <p align="right"><a href="https://twitter.com/felipesernabar1" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_twitter.png" alt="felipesernabar1" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/felipesernabarbosa/" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_linkedin.png" alt="felipesernabarbosa" height="40" width="40" /></a>
 
